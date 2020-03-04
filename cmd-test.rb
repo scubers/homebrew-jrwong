@@ -4,7 +4,7 @@
 class CmdTest < Formula
   desc ""
   homepage ""
-  url "https://github.com/scubers/homebrew-jrwong/raw/master/cmd-test-1.0.0.tar.gz"
+  url "https://github.com/scubers/homebrew-jrwong/raw/master/cmd-test-1.0.1.tar.gz"
   sha256 "9d6245ac03af7431f05c99303d318b42ba4f75c4a5fcee169d10aa8856149bec"
 
   # depends_on "cmake" => :build
