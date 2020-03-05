@@ -4,7 +4,7 @@
 class ItcCli < Formula
   desc ""
   homepage ""
-  url "https://github.com/scubers/itc-cli/raw/master/release/itc-cli-0.1.4.tar.gz"
+  url "https://github.com/scubers/itc-cli/raw/master/release/itc-cli-0.1.5.tar.gz"
   sha256 "43a5326b522ce3700cb79f2267543860b42a122345bac426f44d0dc53082e927"
 
   # depends_on "cmake" => :build
