@@ -5,7 +5,7 @@ class ItcCli < Formula
   desc ""
   homepage ""
   url "https://github.com/scubers/itc-cli/raw/master/release/itc-cli-0.1.3.tar.gz"
-  sha256 "0d1cc7a9129e75a31b3127b6951223da08545cbd2564880e572120250bd59b82"
+  sha256 "42dd5098c47ddf36c49973083b15e586e17fa2d7db857116ffc5cca795bab8e5"
 
   # depends_on "cmake" => :build
 
